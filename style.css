@@ -35,3 +35,6 @@ body nav{
         color: lightcoral;
     }
 }
+body .menu.html{
+    background-color: lightcoral;
+}
